@@ -1,0 +1,8 @@
+rock, paper, scissors
+
+rock vs paper ==> paper 
+paper vs rock ==> paper
+rock vs scissors ==> rock 
+scissors vs rock ==> rock 
+paper vs scissors ==> scissors
+scissors vs paper ==> scissors
